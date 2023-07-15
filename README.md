@@ -2,5 +2,6 @@
 
 My undergraduate research project with Dr. Mathieu Dumberry.
 
-Abstract
+`Abstract`
+
 The seven planets orbiting TRAPPIST-1 have sizes and masses similar to Earth and mean densities that suggest their interior structures are comprised of a fluid iron core and rocky mantle. Here, we compute estimates of the viscous dissipation in the fluid cores of the TRAPPIST-1 planets induced by mantle libration and precession. The dissipation induced by libration at orbital period is largest for TRAPPIST-1b, of the order of 600 MW, and decreases with orbital distance, to values of 5-500 W for TRAPPIST-1h depending on its triaxial shape. Extrapolating these results to the larger libration amplitudes expected at longer periods, dissipation may perhaps be as high as 1 TW in TRAPPIST- 1b. Orbital precession induces a misalignment between the spin axes of the fluid core and mantle of a planet, the amplitude of which depends on the resonant amplification of its free precession and free core nutation. Assuming Cassini states, we show that the dissipation from this misalignment can reach a few TW for planets e and f. Our results suggest that dissipation induced by precession can be of the same order as tidal dissipation for the outermost planets, may perhaps be sufficient to supply the power to a generate a magnetic field in their liquid cores, and likely played an important role in the evolution of the TRAPPIST-1 system.
